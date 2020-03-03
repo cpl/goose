@@ -71,3 +71,6 @@ fabric.properties
 
 ### VisualStudioCode Patch ###
 .history
+
+# OS
+**/*.DS_Store
