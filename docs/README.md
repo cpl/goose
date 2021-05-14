@@ -1,3 +1,3 @@
-# Goose
+# Archived
 
-A barebone Golang template for when I (personally) start a new project.
+Using https://gitlab.com/sudoless/open/make
